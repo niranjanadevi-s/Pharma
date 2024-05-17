@@ -109,7 +109,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; copyright @ 2024 Made and Developed by LATHIKA L J (212223220050)</p>
+    <p>&copy; copyright @ 2024 Made and Developed by Niranjana devi S (212221220036)</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -215,7 +215,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy;  copyright @ 2024 Made and Developed by LATHIKA L J (212223220050)</p>
+    <p>&copy;  copyright @ 2024 Made and Developed by Niranjana devi S (212221220036)</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -329,7 +329,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; copyright @ 2024 Made and Developed by LATHIKA L J (212223220050)</p>
+    <p>&copy; copyright @ 2024 Made and Developed by Niranjana devi S (212221220036)</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -434,7 +434,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; copyright @ 2024 Made and Developed by LATHIKA L J (212223220050)</p>
+    <p>&copy; copyright @ 2024 Made and Developed by Niranjana devi S (212221220036)</p>
   </footer>
 
   <!-- Bootstrap JS -->
