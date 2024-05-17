@@ -464,7 +464,10 @@ contact.html
 ## OUTPUT:
 ![image](https://github.com/niranjanadevi-s/Pharma/assets/141748873/82013854-733f-4a9c-aa38-e0c8c9ae49f9)
 
+
 ![image](https://github.com/niranjanadevi-s/Pharma/assets/141748873/317131cb-8590-4dab-97a1-556c7f4a6108)
+
+![image](https://github.com/niranjanadevi-s/Pharma/assets/141748873/a6c707e0-f944-4cbd-a57c-90dc21a6c82d)
 
 
 ## RESULT:
