@@ -29,9 +29,6 @@ Publish the website in the LocalHost.
 ## home.html
 
 ~~~
-home.html
-
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -125,10 +122,6 @@ home.html
 
 ## about.html
 ~~~
-about.html
-
-
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -235,9 +228,6 @@ about.html
 
 ## product.html
 ~~~
-
-product.html
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -351,12 +341,6 @@ product.html
 ~~~
 ## contact.html
 ~~~
-
-contact.html
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -464,6 +448,7 @@ contact.html
 ## OUTPUT:
 ![image](https://github.com/niranjanadevi-s/Pharma/assets/141748873/82013854-733f-4a9c-aa38-e0c8c9ae49f9)
 
+![image](https://github.com/niranjanadevi-s/Pharma/assets/141748873/33524762-73a5-43c3-ae3e-452e2c1bfc17)
 
 ![image](https://github.com/niranjanadevi-s/Pharma/assets/141748873/317131cb-8590-4dab-97a1-556c7f4a6108)
 
